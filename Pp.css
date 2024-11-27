@@ -1,0 +1,26 @@
+.format{ 
+
+    width:30%;
+    margin:10% auto;
+
+    color: white;
+    text-align: left;
+    background-color:rgb(192, 33, 33);
+}
+.center{
+    text-align: center;
+}
+.square{ 
+    width:30%;
+    margin:10% auto;
+
+    color: white;
+    text-align: center;
+    background-color:rgb(192, 33, 33);
+}
+#login{
+    background-color: rgb(136, 24, 24);
+    color: white;
+    border-color: rgb(136, 24, 24);
+    border-radius: 15%
+}
